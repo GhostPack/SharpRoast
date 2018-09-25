@@ -1,3 +1,6 @@
+# This project has now been deprecated. Its functionality has been incorporated into [Rubeus](https://github.com/GhostPack/Rubeus) via the "kerberoast" action, which provides proper ASN.1 structure parsing.
+
+
 # SharpRoast
 
 ----
